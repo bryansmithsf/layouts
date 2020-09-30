@@ -1,0 +1,5 @@
+/* removes all margins */
+
+* {
+    margin: 0;
+}
